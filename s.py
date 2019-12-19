@@ -1,2 +1,3 @@
-print "Hell s.py!"
+import subprocess
 
+subprocess.call(['./test.sh'])
